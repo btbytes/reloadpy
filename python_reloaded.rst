@@ -5,8 +5,8 @@ Python reloaded
 :Author: Pradeep Gowda
 :Copyright: Licensed under Creative Commons By-NC-SA 2.5.
 
-My notes on Python Programming concepts, libraries and Pythonic ways of 
-doing things. 
+My notes on Python Programming concepts, libraries and Pythonic ways
+of doing things. 
 
 
 .. contents::
@@ -76,6 +76,7 @@ Object Lifecycle
  * access controls
  * making classes extensible
  * object behaviours
+
    * containment
    * sequence
    * iteration
@@ -184,13 +185,17 @@ Pythonic way of programming
 References
 ==========
 
-.. _Composing Python tools: http://us.pycon.org/2010/conference/schedule/event/86/
+.. _Composing Python tools: 
+   http://us.pycon.org/2010/conference/schedule/event/86/
 
-.. _Powerful Pythonic Patters: http://us.pycon.org/2010/conference/schedule/event/47/
+.. _Powerful Pythonic Patters: 
+   http://us.pycon.org/2010/conference/schedule/event/47/
 
-.. _Test and Testability: http://us.pycon.org/2010/conference/schedule/event/114/
+.. _Test and Testability: 
+   http://us.pycon.org/2010/conference/schedule/event/114/
 
-.. _Custom Importers: http://us.pycon.org/2010/conference/schedule/event/17/
+.. _Custom Importers: 
+   http://us.pycon.org/2010/conference/schedule/event/17/
 
 .. _Deconstruction of an Object: http://us.pycon.org/2010/conference/schedule/event/37/
 
