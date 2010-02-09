@@ -1,0 +1,38 @@
+body
+{
+  font-family: verdana, sans-serif;  
+  font-size: 75%;  
+  margin:0em;
+  padding:0em;    
+  background:#999;
+}                             
+
+div.document {
+	margin:2em 5em;
+	background: #ffffff;
+	padding:1em;
+	border: solid 2px #444;
+}
+
+h1, h2, h3
+{
+/*    color:#c61f00;*/
+    color:#401624;
+    font-weight: normal;
+    font-family: Georgia, serif;
+}
+
+a, a:visited, a:hover
+{
+  text-decoration:none;
+  border-bottom: dotted 1px #735938;
+} 
+a:visited{
+  color:#735938;
+  border-bottom: dotted 1px #401624;
+}
+
+a.toc-backref, a.toc-backref:visited, a.toc-backref:hover
+{ 
+  color:#444;
+}
