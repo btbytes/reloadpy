@@ -20,27 +20,27 @@ Composing Python Tools
 See Raymond Hettinger's `Composing Python tools`_ PyCon 2010 Talk.
 
 
- * bisect
- * heapq
- * lists
- * deques
- * sets
- * frozensets
- * class structures
- * sorts
- * weak references
- * Ordered Dictionaries
+* bisect
+* heapq
+* lists
+* deques
+* sets
+* frozensets
+* class structures
+* sorts
+* weak references
+* Ordered Dictionaries
 
 Know your Python Syntax
 -----------------------
 
- * descriptors
- * iterators
- * context managers
- * namespaces
- * else clauses on for/while loops
- * Zip  
- * `Custom Importers`_
+* descriptors
+* iterators
+* context managers
+* namespaces
+* else clauses on for/while loops
+* Zip  
+* `Custom Importers`_
 
 Lexical scoping
 ---------------
@@ -72,15 +72,15 @@ Disassembly and bytecode
 Object Lifecycle
 ----------------
 
- * lifecycles
- * access controls
- * making classes extensible
- * object behaviours
+* lifecycles
+* access controls
+* making classes extensible
+* object behaviours
 
-   * containment
-   * sequence
-   * iteration
-   * arithmetic
+  * containment
+  * sequence
+  * iteration
+  * arithmetic
    
 See `Deconstruction of an Object` by Jeff Rush.
 
@@ -97,8 +97,8 @@ Meta Programming
 Parsing
 -------
 
- * Pyparsing
- * PLY    
+* Pyparsing
+* PLY    
 
 Libraries
 =========
@@ -112,8 +112,8 @@ Software Development
 Version Control
 ---------------
 
- * Mercurial
- * git
+* Mercurial
+* git
  
 Patterns and Anti-Patterns
 --------------------------
@@ -124,30 +124,30 @@ See Alex Marteli's `Powerful Pythonic Patters`_ talk at PyCon 2010.
 Development workflow
 --------------------
 
- * `pip and virtualenv`_ 
- * VirtualEnvWrapper
+* `pip and virtualenv`_ 
+* VirtualEnvWrapper
 
 Asynchronous IO
 ===============
 
- * Blocking i/o
- * non-blocking i/o
- * Sync and async i/o
+* Blocking i/o
+* non-blocking i/o
+* Sync and async i/o
 
 Concurrency and Multiprocessing
 ===============================
 
- * Threads
- * Processes
- * Locks
- * Mutexes
- * Select
- * epoll
- * transactional memory
- * ...
+* Threads
+* Processes
+* Locks
+* Mutexes
+* Select
+* epoll
+* transactional memory
+* ...
  
- * Multiprocessing
- * The impact of GIL
+* Multiprocessing
+* The impact of GIL
   
 
 Various Pythons
@@ -176,15 +176,40 @@ Unladen Swallow
 Testing
 =======
 
- * Testing and Testability
- * Mocks
- * Dependency Injection
- * Crisp API design
+* Testing and Testability
+* Mocks
+* Dependency Injection
+* Crisp API design
 
 See `Test and Testability`_ talk by Ned Batchelder 
  
 Pythonic way of programming
 ===========================
+
+
+Web Programming
+===============
+
+WSGI 
+----
+
+BFG
+---
+
+Data Analysis
+=============
+
+* Numpy and related
+ 
+
+Production and Packaging
+========================
+
+* Packaging
+* Deployment
+* Distribute
+* Private PyPI repositories
+ 
 
 References
 ==========
@@ -208,32 +233,8 @@ References
 .. _pip and virtualenv: http://mathematism.com/2009/jul/30/presentation-pip-and-virtualenv/
 
 
-Web Programming
-===============
-
-WSGI 
-----
-
-BFG
----
-
-Data Analysis
-=============
-
- * Numpy and related
- 
-
-Production and Packaging
-========================
-
-
- * Packaging
- * Deployment
- * Distribute
- * Private PyPI repositories
- 
 Changelog
 =========
  
- * 2010-02-08 : Document created
+* 2010-02-08 : Document created
  
