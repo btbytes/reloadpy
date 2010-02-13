@@ -121,6 +121,12 @@ Patterns and Anti-Patterns
 See Alex Marteli's `Powerful Pythonic Patters`_ talk at PyCon 2010.
 
 
+Development workflow
+--------------------
+
+ * VirtualEnv
+ * VirtualEnvWrapper
+ * pip
 
 
 Asynchronous IO
@@ -200,6 +206,8 @@ References
 .. _Deconstruction of an Object: http://us.pycon.org/2010/conference/schedule/event/37/
 
 .. _Understanding the GIL: http://us.pycon.org/2010/conference/schedule/event/76/
+
+.. pip and virtualenv: http://mathematism.com/2009/jul/30/presentation-pip-and-virtualenv/
 
 
 Web Programming
