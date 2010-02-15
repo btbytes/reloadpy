@@ -209,6 +209,7 @@ Production and Packaging
 * Deployment
 * Distribute
 * Private PyPI repositories
+* Paste Templates. See `MPT`_ 
  
 
 References
@@ -231,6 +232,8 @@ References
 .. _Understanding the GIL: http://us.pycon.org/2010/conference/schedule/event/76/
 
 .. _pip and virtualenv: http://mathematism.com/2009/jul/30/presentation-pip-and-virtualenv/
+
+.. _MPT:http://pypi.python.org/pypi/modern-package-template
 
 
 Changelog
