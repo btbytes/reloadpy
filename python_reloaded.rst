@@ -54,6 +54,9 @@ New Syntax in Python 3.0
 Co-routines
 -----------
 
+ * Ref: `A curious case of coroutines`_ 
+
+.. _A curious case of coroutines : http://www.dabeaz.com/coroutines/ 
 
 Decorators
 ----------
