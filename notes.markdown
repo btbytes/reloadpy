@@ -159,7 +159,22 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * new reserved -- `as with nonlocal True False`
  * removed `print,exec`
  * lots of links .. see presentation
-  
+ 
+ 
+## David Mertz
+
+ * mostly sleepy :( see slides.
+ * Promises 
+ * Have to investigate the about acyclic graphs and concretising children and vice-versa.
+
+## Powerful pythonic patterns by Alex Martelli
+
+ * Audience level -shu ha ri
+
+## Using Django in Non-traditional ways by Eric Florenzano.
+
+ * Why
+   -  
 
     
      
