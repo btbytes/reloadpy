@@ -125,8 +125,9 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * ToppCloud
  * Ad hoc sys.admin is like programming in python shell
  * cloud servers are testable.
- *    
-    
+ * `COMMIT` is a good pause while using a version control system to review what you have done. 
+ * cloud -- everything is specific and inflexible. it's like the personal lib of sys.admin.
+     
 
     
      
