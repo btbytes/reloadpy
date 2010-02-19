@@ -109,6 +109,15 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
 ## Deployment, development, packaging, and a little bit of the cloud by Ian Bicking
 
  * The hall almost full.
+ * We are the best because, 
+   - we are tasteful
+ * Dynamic languages are flawed. We should know our own flaws.
+ * "No dependencies" is a much bandied "feature" by a lot of packages. 
+ * Contracts are a fantasy. people will use private APIs.
+ * people who do not use `import *`, while following good coding practice might actually end up using non-public APIs.
+ * modules get bigger and get moved around and contracts get broken.
+ * cherrypy has a nice system of marking non-public modules with `_`.
+ 
   
     
 
