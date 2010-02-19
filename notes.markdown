@@ -147,7 +147,19 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * 2.2 unified classes and types
  * py3 deprecates classic classes
  * all classes are of the same type
- * See PEP 252 and 253    
+ * See PEP 252 and 253      
+ * don't use comma in exceptions. call them as functions instead
+ * `L` or `l` deprecated
+ * `from future_builtins` import *
+ * iterators are more efficient
+ * Dictionary Comprehensions
+ * Set literals -- {1,10,100,1000}
+ * {} is still a empty set
+ * set comprehensions #XXX
+ * new reserved -- `as with nonlocal True False`
+ * removed `print,exec`
+ * lots of links .. see presentation
+  
 
     
      
