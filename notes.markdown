@@ -169,12 +169,23 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
 
 ## Powerful pythonic patterns by Alex Martelli
 
- * Audience level -shu ha ri
+ * OHT
+ 
+## Embedding python 
 
-## Using Django in Non-traditional ways by Eric Florenzano.
+  * embedding python ina c program is a total of 4 lines. 
+  * but the challenge is in embedding into larger apps
+  * Apps embedding Maya, Nuke, Houdini and Blender (Computer Graphics Industry.. games, films )
+  * Maya started using python from 2.4
+  * distributes python stdlib as a zipfile. speeds up file acces over network.
 
- * Why
-   -  
+## Using Django in unusual ways -- eric flo.
+
+ * models.py has to be there for the test to work .. hmm..
+ * settings.configure(USE_I18N  = False)
+ * using django in other contexts 
+ * look at repoze wsgi apps
+ * YardBird, Djng, Jngo
 
     
      
