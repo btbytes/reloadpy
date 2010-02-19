@@ -197,6 +197,19 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * what are the clever solutions
  * what were the tradeoffs.
  * The big picture.
-  
+
+### Coverage.py by Ned Batchelder
+
+ * new HTML reporting
+ * `coverage run myfile.py`
+ * `coverage html `
+ * runs from 2.3 to python 3.1
+ * tracing in C.
+ * XML outout
+ * Cobertura-comaptible
+ * Hudson.
+ * soon `.coveragerc`
+ 
+ 
     
      
