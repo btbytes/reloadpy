@@ -187,5 +187,16 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * look at repoze wsgi apps
  * YardBird, Djng, Jngo
 
+## Lightening talks
+
+### Greg Wilson
+
+ * READ CODE.
+ * pick two pieces of software . do a contrast and comparison.
+ * Difference between vim and emacs at the architectural level.
+ * what are the clever solutions
+ * what were the tradeoffs.
+ * The big picture.
+  
     
      
