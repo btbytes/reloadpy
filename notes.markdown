@@ -121,7 +121,11 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * Succesful application ... layers.
    `Application -> personal lib -> regular lib -> framework -> standard lib -> language`
  *  Tools to freeze versions: `pip freeze` and `buildout.dumppickedversions`
- * Isolation: -- `virtualenv` , `buildout` ...  
+ * Isolation: -- `virtualenv` , `buildout` ...
+ * ToppCloud
+ * Ad hoc sys.admin is like programming in python shell
+ * cloud servers are testable.
+ *    
     
 
     
