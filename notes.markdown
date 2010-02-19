@@ -127,7 +127,27 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * cloud servers are testable.
  * `COMMIT` is a good pause while using a version control system to review what you have done. 
  * cloud -- everything is specific and inflexible. it's like the personal lib of sys.admin.
-     
+ * toppcloud uses `mod_wsgi`. 
+ * chef and puppet are flexible configuration management systems. toppcloud has config management 
+ using a shell script.
+
+## Python 3 by Wesley Chun
+
+ * Lots of questions.
+ * There are *some* users of python 3.
+ * most corp users are still using Python 2.x
+ * promote version independence
+ * 2.7 coming out in June
+ * 3 goes back to "Python Regrets and Warts" <-- look up ref
+ * from __future__ import print_function
+ * concat is the default operation between strings. 
+ * Unicode by default docs.python.org/2.0/howto/unicode.html
+ * text vs. data
+ * `str` type is now `bytes`
+ * 2.2 unified classes and types
+ * py3 deprecates classic classes
+ * all classes are of the same type
+ * See PEP 252 and 253    
 
     
      
