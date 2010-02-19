@@ -105,7 +105,10 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
   
  * Install DLR app on to the local machine. Similar to Adobe Air.
  * Windows still blows as a  development environment. 
-  
+ 
+## Deployment, development, packaging, and a little bit of the cloud by Ian Bicking
+
+ *  
     
 
     
