@@ -50,6 +50,8 @@
    - once code is in stdlib.. it is dead.
 
 ## IronPython tooling support by Dave Fugate
+                                                                     
+Attending the Ironpython talk, because looking over the fence is good ;)
 
   * jumps right into ironpython innards... hmm.. This is not a <> (one star) level talk.
   * pydev support ironpython.
@@ -66,7 +68,45 @@
   * Project system
     - lightweight compared to regular VS?
     - `pyproj` files. copy files to proj dir to add it to proj
-  * Intellisense
-    - 
+  * Intellisense -- pretty much like what we come to expect from VS tools. cool. 
+  * execute project in REPL and be left in the scope. 
+  * intellisense works in the REPL to. cool. 
+  * REPL allows you to choose the scope. 
+    `import x`
+    and then work in `x`'s context
+  
+ 
+## Python in the Browser by Jimmy Schementi.
+
+ * Guido is in this talk.
+ * Python is downloaded on-demand..
+ * Uses Silverlight
+ * Hello world.
+   - reference this js file -- `http://gestalt.ironpython.net/dlr-latest.js`
+ * REPL in the browser. executes code in the browser.
+
+<pre>    
+
+>>> def say_ouch(s, e):
+   s.innerHTML = "ouch!"
+>>> document.message
+<System.WIndows.Browser.HTMLElement bojb>
+>>> dir(document.message)
+[AppendChild, AttachEvent, ...]
+>>>document.message.onclick += say_ouch
+</pre>
+
+The above is HTML.But, i guess using XAML is the more productive/recommended way.
+
+ * Batteries included.
+  - running unit tests in the browser
+  - the python lib file is in a lib.zip file. which get loaded in the header using `script type="application/x-zip-compressed" src="Lib.zip" />`.
+  - rST to XAML tool demo. Runs `doctuils` in the browser.       
+  
+ * Install DLR app on to the local machine. Similar to Adobe Air.
+ * Windows still blows as a  development environment. 
+  
+    
+
     
      
