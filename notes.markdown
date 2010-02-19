@@ -117,8 +117,11 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * people who do not use `import *`, while following good coding practice might actually end up using non-public APIs.
  * modules get bigger and get moved around and contracts get broken.
  * cherrypy has a nice system of marking non-public modules with `_`.
- 
-  
+ * brings up his old blog post `woonerf`.
+ * Succesful application ... layers.
+   `Application -> personal lib -> regular lib -> framework -> standard lib -> language`
+ *  Tools to freeze versions: `pip freeze` and `buildout.dumppickedversions`
+ * Isolation: -- `virtualenv` , `buildout` ...  
     
 
     
