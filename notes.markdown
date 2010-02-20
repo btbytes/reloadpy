@@ -253,5 +253,35 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
    - what will take it for more people to use our software
      - netbooks
      - consumer electronics  
-    
+     - the "good enough culutre is bs"
+     - sphere of consciousness
+     - best open source leaders juggle purely tech issues with design issues , bring them together to achieve elegant results.
+     - making it easy is hard.
      
+## Demystifying Non-Blocking and Asynchronous I/O by Peter Portante
+
+ * NOTE: info dense presentation. see the slides
+ * buffered I/O [userspace <--> buf <--> kernel] 
+ * I/O mux . kernel offers poll()
+ * ask for fds that are ready for i/o
+ * non blocking io-- memory requirements are less
+ * doing many sockets is easier (and chepaer) than doing lots of threads.
+ * non-blocking i/o is the way to go.. libev, pyev ,libevent, ..
+ * tornado, twisted, asyncore(core pylib) 
+ * Q: windows? true async i/o on .. ??
+ * poll vs epoll. 
+   - how the responses are handled
+   - epoll - reg for edge triggered events
+   - poll - level triggered events
+   - epoll does not remember the state of previously returned fds ??
+ * Eventlets have the notion of hiding what is happening with the polling in the background.
+                                                      
+ 
+## Unladen swallow
+
+ * All of Youtube is pure python
+ * #2 search engine behind google.com
+ * the dynamic nature of python (eg: rebind len() between generator calls) is what makes it slow.
+ * LLVM was helpful
+ * 
+ 
