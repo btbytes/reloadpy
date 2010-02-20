@@ -233,7 +233,25 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  
 ## Mark Shuttleworth
 
- * 
- 
+ * accelerating pace of open source development
+ * Cadence 
+   - (cadence is the number of revolutions of the crank per minute; roughly speaking, this is the speed at which a cyclist is pedalling)
+   - time based ubuntu releases keeps people moving. dev, translation, advocacy..etc.,
+   - 6 month cadence.. 2 year cycle.
+    
+ * Quality
+   - FOSS devs are dogmatic .. many eyes, personal pride etc... 
+   - more rigorous QA for shipped software esp consumer electronics.
+   - having only tested code in trunk encourages more people to run stuff off trunk.. which gives better feedback.
+   - run score of who breaks the build
+   - community practices
+   
+      1. on call reviewer. any patch less than < 800 lines
+      1. good policies on what happens on trunk vs what happens on branches.
+      
+ * Design
+   - what will take it for more people to use our software
+     - netbooks
+     - consumer electronics  
     
      
