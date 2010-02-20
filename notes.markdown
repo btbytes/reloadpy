@@ -292,7 +292,7 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * disabling one of the processor makes the threaded code runs faster!!
 
 ## Mastering Team Play by Raymond Hettinger
-
+  * Note: it will be an interesting experiment to go through a lot of my code and see where I can use deques and sets...
   *  bit.ly/c251Oi a4pE6l aAHWFl
   * Lists
     - lists do append and pop effciently on the right
@@ -323,5 +323,11 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
   
   * Ordered Dictionaries
     - remember the order in which the items where inserted.
-    -                                                              
+    - easy to do badly
+    - available in py3. coming to py2.7
+    - deleting from double linked list for order and dict for search.
+    
+  * Running median
+    - requires sorting the elements in the window every time a new element is added.
+                                                                
      
