@@ -284,4 +284,6 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * the dynamic nature of python (eg: rebind len() between generator calls) is what makes it slow.
  * LLVM was helpful
  * 
- 
+
+## GIL talk. 
+ * Rule 1 Don't tak about the GIL ;)
