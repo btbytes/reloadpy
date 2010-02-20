@@ -329,5 +329,24 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
     
   * Running median
     - requires sorting the elements in the window every time a new element is added.
-                                                                
+    - see ASPN Quick Select
+                              
+                              
+## Open Space 
+
+ * python-authors on python.org
+
+## Repoze.BFG
+
+ * WSGI -- paste and webob and mod_wsgi
+ * runs on Jython and Google App Engine.
+
+## Turtles All The Way Down: Demystifying Deferreds, Decorators, and Declarations
+
+by Glyph Lefkowitz
+
+  * founder of twisted
+  * Turtles
+  * think about what an object is, what def and class actually mean.
+  *                                                                 
      
