@@ -209,7 +209,15 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
  * Cobertura-comaptible
  * Hudson.
  * soon `.coveragerc`
+
+### Python DocX
  
+ * http://github.com/mikemaccana/python-docx
+
+# 2010-02-20
+
+## Lightening talks 
+
  
     
      
