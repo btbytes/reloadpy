@@ -319,4 +319,9 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
   * Random Sampling without replacement. 
     - Strategies EAFP LBYL
     - LBYL == look before you leap
-    -  
+    - EASP == easier to ask for forgiveness rather than permission
+  
+  * Ordered Dictionaries
+    - remember the order in which the items where inserted.
+    -                                                              
+     
