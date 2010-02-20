@@ -287,3 +287,36 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
 
 ## GIL talk. 
  * Rule 1 Don't tak about the GIL ;)
+ * Thread code 2x slower.
+ * you can disable a processor in Mac OS X using a control panel option installed by Xcode.
+ * disabling one of the processor makes the threaded code runs faster!!
+
+## Mastering Team Play by Raymond Hettinger
+
+  *  bit.ly/c251Oi a4pE6l aAHWFl
+  * Lists
+    - lists do append and pop effciently on the right
+    - are compact array of pointers
+    - insert is slow
+    
+  * Deque
+    - double ended queue
+    - append and pop efficient on both sides
+    - cannot be indexed efficiently
+    - do not support insert().
+    
+  * Sets
+    - improve the spped by using sets instead of lists [where list is used as a container]
+    - frozen set is hashable
+    - sets and dicts have O(1) lookup
+    - they use more memory than a list
+    
+  * merging = concat + sort 
+  * Heapq tracks running minimums
+  * Bisect uses O(log n) binary search
+  * Insertion to bisect is O(n)
+  
+  * Random Sampling without replacement. 
+    - Strategies EAFP LBYL
+    - LBYL == look before you leap
+    -  
