@@ -216,8 +216,24 @@ The above is HTML.But, i guess using XAML is the more productive/recommended way
 
 # 2010-02-20
 
-## Lightening talks 
+## Keynote: Ironpython - Dino
+                    
+ * Ironpython 2.6
+ * implements ctypes
+ * sys._getframe
+ * .net 4.0 .. c#/vb.net can call ironpython code directly
+ 
+## PyPy
 
+ * 2009
+ * Speed (JIT)
+ * quite fast.. but can consume a lot of memory..
+ * can recompile code too many times.
+ * Runtime algos are not as polished as the cpython ones
+ 
+## Mark Shuttleworth
+
+ * 
  
     
      
