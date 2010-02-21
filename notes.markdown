@@ -382,18 +382,28 @@ by Glyph Lefkowitz
  * codepy.org
               
  * Read .. Daemon -- Daniel Suarez
+   
  
 # 2010-02-21
 
 ## Customizing your editor (Editor Frobbing.)
 
- * HUGE Inc.
+ * [Justin Lilly](http://justinlilly.com)
  * Beware of just surfing productivity tips
  * TODO: Have a customizing the editor talk(s) in Indypy.
  * Column Editing. 
  * Integration with shell
  * Code folding
  * Hierarchical view of code.
- * Linting support
+ * Linting support (pydev)
  * 
  
+ 
+## Misc
+
+ * Check out prezi.com
+ * python 3.1 has unicode programming support. check it out 
+ * check out graphine.org for "graph" ds in python.
+ * picloud.com
+ * Check out the eventlets talk on pycon tv. 
+ * One benefit of attending talks is questions from the audience.
