@@ -377,3 +377,23 @@ by Glyph Lefkowitz
  * snakebite.org
  * check out mutliprocessing. 
  * goldb.org/multi-mechanize/
+ * orbison
+ * selenium -- 
+ * codepy.org
+              
+ * Read .. Daemon -- Daniel Suarez
+ 
+# 2010-02-21
+
+## Customizing your editor (Editor Frobbing.)
+
+ * HUGE Inc.
+ * Beware of just surfing productivity tips
+ * TODO: Have a customizing the editor talk(s) in Indypy.
+ * Column Editing. 
+ * Integration with shell
+ * Code folding
+ * Hierarchical view of code.
+ * Linting support
+ * 
+ 
