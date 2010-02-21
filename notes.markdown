@@ -348,5 +348,32 @@ by Glyph Lefkowitz
   * founder of twisted
   * Turtles
   * think about what an object is, what def and class actually mean.
-  *                                                                 
-     
+  * conquer the fear of "weird" python
+  * python is -- easy,consistent and simple                                                                
+  * x = 1
+    - globals()['x'] = 1
+  * Read the implmentation of Decimal
+  * Fraction [`from fractions import Fraction`] -- similar 
+  * Noun 
+  * Action verb  becomes a method call
+ 
+## Test and Testability by Ned Batchelder
+
+
+## lightening talks
+ * scrape.py -- 
+ * phatch
+ * embedded python -synapse
+ * pycharm - jetbrains
+ * mercurial -- PEP 385 : hg conversion
+ * 
+ 
+## Testing BoF
+ 
+ * integration tests are a scam
+ * extracheese.org
+ * multi-mechanize
+ * coverage.py
+ * snakebite.org
+ * check out mutliprocessing. 
+ * goldb.org/multi-mechanize/
