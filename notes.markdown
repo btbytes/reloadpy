@@ -444,6 +444,44 @@ by Glyph Lefkowitz
  * code.google.com/p/orbison
  * orbcamp.com
  * @hugs 
+        
+  
+## Sprints
+ 
+ * Django
+ - 1.2 bug fixes
+ - django.org website
+ - testing infrastructure -- distributed testing
+ 
+ 
+ * Turbogears tutorial at 4.30
+ 
+ * Cherrypy
+   - only documentation
+
+ * Repoze.BFG
+ 
+   - Google App Engine
+   - documented tested, example tutorial 
+   - WSGI web framework
+   
+ * Trac
+ * OpenGov Sprint
+ * Jython 
+   - 2.5.2 release
+   - bug fixes.
+   - starting 2.6
+   - Jython Android
+   
+ * Distribute
+ 
+ * ToppCloud
+   - system admin tasks
+
+ * Mercurial
+ * Eventlet, stackless
+ * 
+ 
   
 ## Misc
  
