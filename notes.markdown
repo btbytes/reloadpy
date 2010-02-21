@@ -411,8 +411,39 @@ by Glyph Lefkowitz
  * Uses chemical formulas as examples. Interesting..
  * regular expressions in python are first match, not best match.
  * PLY builds on top of regular expressions... looks complicated.!!
- * 
- 
+ * PLY requires you to know about lexers and parsers
+ * PLY generates a Parser tree.
+ * PLY: 
+   - parsers start with `p_` 
+   - tokenizers start with `t_`
+ * PLY uses lex. for lexers and yacc for parser
+ * PLY requires you to think about error handling.
+ * pyparsing seems to give better error handling.
+ * pyparsing ignores white space by default
+ * counting using `repeat` #???
+ * PLY is long and thin code.. Pyparsing is dense.
+ * PLY: Order of token and parser defn is important.
+ * Pyparsing needs a 'forward' declaration for parsing nested formulas.
+ * Pyparsing is slower than PLY.
+ * PLY is scalable for faster for large languages.
+ * What About ANTLR? 
+   - java program for writing lexers and parsing
+   - 3/4 times slower than PLY and as fast as Pyparsing.
+   - has great GUI 
+   
+## Lightening talks 
+ * Bitofpython.com
+ * unittest2 coming in python2.7
+ * BSD Certification. 
+ * CeleryProject.org -- @petrellic
+   - celeryd -- 
+   - celerybeat -- periodic tasks like cron
+   - celerymon -- monitoring server
+ * Do all forking before you spawn threads
+ * Jason Hugggins -- Selenium/ Sauce labs.
+ * code.google.com/p/orbison
+ * orbcamp.com
+ * @hugs 
   
 ## Misc
  
@@ -425,4 +456,5 @@ by Glyph Lefkowitz
  * One benefit of attending talks is questions from the audience.
  * Non-trivial unit testing.. HOWTO
  * Small Acts Manifesto
- * 
+ * Juice Analytics
+ 
