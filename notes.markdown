@@ -396,14 +396,33 @@ by Glyph Lefkowitz
  * Code folding
  * Hierarchical view of code.
  * Linting support (pydev)
+
+## Unit testing
+
+ * testResult object
+    - .errors
+    - .failures
+
+
+## Pyparsing and PLY
+
+ * GothPy
+ * Theory -- chomsky hierarchy, regular, context-free, context sensitive grammars etc.,
+ * Uses chemical formulas as examples. Interesting..
+ * regular expressions in python are first match, not best match.
+ * PLY builds on top of regular expressions... looks complicated.!!
  * 
  
- 
+  
 ## Misc
-
+ 
+ * Emacs BoF at 4pm.
  * Check out prezi.com
  * python 3.1 has unicode programming support. check it out 
  * check out graphine.org for "graph" ds in python.
  * picloud.com
  * Check out the eventlets talk on pycon tv. 
  * One benefit of attending talks is questions from the audience.
+ * Non-trivial unit testing.. HOWTO
+ * Small Acts Manifesto
+ * 
