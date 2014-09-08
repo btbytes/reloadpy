@@ -19,4 +19,4 @@ else
     prog=rst2html
 fi
 
-rst2html --embed-stylesheet --stylesheet=style.css python_reloaded.rst > python_reloaded.html
+rst2html.py --embed-stylesheet --stylesheet=style.css python_reloaded.rst > python_reloaded.html
